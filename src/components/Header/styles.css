@@ -1,0 +1,4 @@
+.Img img:hover{
+    opacity: 0.8;
+    border: 3px solid rgba(138, 90, 28, 0.616);
+  }
